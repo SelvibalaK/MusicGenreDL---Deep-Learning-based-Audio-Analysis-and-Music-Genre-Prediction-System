@@ -59,10 +59,15 @@ Note: A GPU-enabled system with CUDA support is recommended for faster training.
 ## Project Structure
 
 MusicGenreDL/
+
 ├── data/                        # Directory for the GTZAN dataset
+
 ├── models/                      # Directory to save trained models (optional)
+
 ├── output/                      # Directory for storing results (e.g., confusion matrices, reports)
+
 ├── MusicGenreDL---Deep-Learning-based-Audio-Analysis-and-Music-Genre-Prediction-System.py  # Main script
+
 ├── README.md                    # Project documentation (this file)
 
 ## How to Run the Project
